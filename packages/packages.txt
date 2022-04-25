@@ -1,0 +1,13 @@
+BouncyCastle.1.8.5
+EPPlus.5.8.7
+Google.Protobuf.3.14.0
+K4os.Compression.LZ4.1.2.6
+K4os.Compression.LZ4.Streams.1.2.6
+K4os.Hash.xxHash.1.0.6
+Microsoft.IO.RecyclableMemoryStream.1.4.1
+MySql.Data.8.0.27
+System.Buffers.4.5.1
+System.ComponentModel.Annotations.4.7.0
+System.Memory.4.5.4
+System.Numerics.Vectors.4.5.0
+System.Runtime.CompilerServices.Unsafe.5.0.0
